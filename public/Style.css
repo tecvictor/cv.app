@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    background-color: #cae9ff;
+}
+ #initialh1 {
+     background-color: black;
+ }
+
+h5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ h6 {
+     background-color:black;
+     margin: 7px;
+     margin-left: 0px;
+     margin-right: 0px;
+ }
+h1 {
+    margin-bottom: 15px;
+}
+h1 img {
+    height: 195px;
+    width: 120px;
+    border-radius:50%;
+}
+
+ul {
+    padding-left: 30px;
+    justify-content: center;
+}
+li {
+    list-style:none;
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+.contacts {
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+strong {
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    justify-content: center;
+}
+
+.contacts div p{
+    margin-top:12px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.contacts div p span{
+    font-weight: bold;
+}
+.information {
+    text-align: center;
+    text-justify: inter-word;
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+.information ul{
+    margin-bottom: 5px;
+    margin-top: 12px;
+
+}
+.information ul li {
+    padding-bottom: 10px;
+
+}
+
+.information ul li span{
+    font-weight: bold;
+    padding-right: 2px;
+}
+
+.resume div {
+        text-align: justify;
+        text-justify: inter-word;
+        margin-top: 10px;
+        padding-left: 18px;
+        padding-right: 20px;
+}
+
+.links {
+    text-align: center;
+    text-justify: inter-word;
+    justify-content:center;
+    align-items:flex-start;
+    display: -moz-grid-line;
+    padding-left: 18px;
+    padding-right: 20px;
+    font-size: 18px;
+   
+}
+.links ul {
+    padding-left: 0px;
+}
+.links ul li {
+    padding-bottom: 10px;
+
+}
+
+.certificateimages{
+    margin-top: 25px;
+}
+.certificateimages img{
+    width: 550px;
+    height: 420px;
+    margin-bottom: 22px;
+    
+}
